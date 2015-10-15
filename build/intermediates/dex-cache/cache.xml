@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sai/AndroidStudioProjects/ToDo24/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/sai/AndroidStudioProjects/ToDo24/app/build/intermediates/pre-dexed/release/classes-3609d34b9c7490253ab11b9cca4495f69cbfef74.jar" />
+    </item>
+    <item
+        jar="/Users/sai/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/sai/AndroidStudioProjects/ToDo24/app/build/intermediates/pre-dexed/release/commons-io-2.4-8a3446987cc27bd4dae1125e24008497846725c0.jar" />
+    </item>
+    <item
+        jar="/Users/sai/AndroidStudioProjects/ToDo24/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/sai/AndroidStudioProjects/ToDo24/app/build/intermediates/pre-dexed/release/classes-814ab688d3428ef4d62226759414a16dd445d310.jar" />
+    </item>
+    <item
+        jar="/Users/sai/AndroidStudioProjects/ToDo24/app/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/sai/AndroidStudioProjects/ToDo24/app/build/intermediates/pre-dexed/release/gson-2.3.1-8e527b7aa8570ce3f380c1073ecc9681db6e873e.jar" />
+    </item>
+    <item
+        jar="/Users/sai/AndroidStudioProjects/ToDo24/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/sai/AndroidStudioProjects/ToDo24/app/build/intermediates/pre-dexed/release/internal_impl-23.0.0-6b2968a8902ba5821f4f33a6327e6b2302b3c5fa.jar" />
+    </item>
+    <item
+        jar="/Users/sai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/sai/AndroidStudioProjects/ToDo24/app/build/intermediates/pre-dexed/release/support-annotations-23.0.0-f9c58a2f6f0b4c0e338514f5169c853f2fe2f366.jar" />
+    </item>
+
+</items>
